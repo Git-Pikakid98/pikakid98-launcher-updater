@@ -3,8 +3,8 @@ A simple program to update my launcher automatically
 
 <h1>Building Instructions</h1>
 
-[7-Zip](https://www.7-zip.org/)
-is required to extract the launcher data
+[HTTP Downloader](https://github.com/erickutcher/httpdownloader/releases)
+is required to download all required data
 
 [Resource Hacker](http://angusj.com/resourcehacker/)
 to change the icon on the .exe
