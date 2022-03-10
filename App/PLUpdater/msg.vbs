@@ -1,0 +1,1 @@
+answer = MsgBox("A new version is available and will now be downloaded", vbDefaultButton1, "Pikakid98 Launcher")
