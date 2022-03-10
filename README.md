@@ -5,6 +5,7 @@ A simple program to update my launcher automatically (v2.0 SHOULD in theory be f
 
 [Portableapps.com Launcher](https://portableapps.com/apps/development/portableapps.com_launcher)
 to create the .exe
+###### {Just download it and when running select the folder where you have the src. Keep in mind you need to have the folder where the "App" folder is. Not the App folder itself. That won't work}
 
 <h1>Windows User Warning</h1>
 
