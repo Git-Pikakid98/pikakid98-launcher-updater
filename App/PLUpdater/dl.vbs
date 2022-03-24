@@ -1,10 +1,10 @@
 Set objWinHttp = CreateObject("WinHttp.WinHttpRequest.5.1")
 
-URL = "https://github.com/pikakid98/pikakid98-launcher-data/releases/download/data/Launcher-21.bat"
+URL = "https://github.com/pikakid98/pikakid98-launcher-data/releases/download/data/Launcher-22.bat"
 objWinHttp.open "GET", URL, False
 objWinHttp.send ""
 
-SaveBinaryData "Launcher-21.bat",objWinHttp.responseBody
+SaveBinaryData "Launcher-22.bat",objWinHttp.responseBody
 
 Function SaveBinaryData(FileName, Data)
 

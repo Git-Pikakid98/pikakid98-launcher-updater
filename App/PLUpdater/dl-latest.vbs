@@ -1,6 +1,6 @@
 Set objWinHttp = CreateObject("WinHttp.WinHttpRequest.5.1")
 
-URL = "https://github.com/pikakid98/pikakid98-launcher/releases/latest/download/Pikakid98.Launcher.exe"
+URL = "https://github.com/Git-Pikakid98/pikakid98-launcher/releases/latest/download/Pikakid98.Launcher.exe"
 objWinHttp.open "GET", URL, False
 objWinHttp.send ""
 
