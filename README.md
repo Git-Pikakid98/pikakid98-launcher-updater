@@ -10,9 +10,3 @@ to create the .exe
 # Windows 10 User Warning
 
 I'm not sure what is causing it but it may have something to do with your Microsoft account being attatched to your PC. But sometimes if your PC's name or Microsoft account name (idk) differs from your account name then you may find a second user account created to store the downloads. Unfortunately, this is something that I can't fix. [Click here to find out how to switch to a local account](https://support.microsoft.com/en-us/windows/switch-your-windows-10-device-to-a-local-account-eb7e78a9-88ee-9bc3-8f06-831b56e339fd)
-
-# VirusTotal Reports For v2.1
-
-[(Installer .exe)](https://www.virustotal.com/gui/file/50c5ee3fddbfa6e0bcfe7f34e21d54ef67697725c220066002dcfe56ea9c2131)
-[(Portable .7z)](https://www.virustotal.com/gui/file/f3c804b0964d388a84c53a56b34c6d2d941200a82c495306e1246646ac20b46d)
-###### I forgot to do one for v2.0.1.. Sorry not sorry.. I only did this because some people are paranoid.. Also the installer's detections are false positives
